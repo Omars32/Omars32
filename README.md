@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Me?+line+of+text)](https://git.io/typing-svg)
-### Hi there 👋
-# I'm Omar Almokhtar [Physicists & Data Analyst] 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Who+I+am+?)](https://git.io/typing-svg)
+# Omar Almokhtar [Physicists & Data Analyst] 
 
 
 <!--
