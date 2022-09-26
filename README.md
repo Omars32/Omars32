@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Omar Almokhtar 
-### [Physicists & Data Analyst] 
+[Physicists & Data Analyst] 
 
 <!--
 **Omars32/Omars32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
