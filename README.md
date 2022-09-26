@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 ## Statistics? 
 
 
+<!-- Pin a Card of your main projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omars32&repo=Github_Readme)](https://github.com/Omars32/Github_Readme)
+-->
