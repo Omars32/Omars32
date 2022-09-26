@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 --> 
 
 ## Statistics? 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omars32&layout=default&langs_count=3)](https://github.com/Omars32/Github_Readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omars32&layout=compact&langs_count=7)](https://github.com/Omars32/Github_Readme)
 
 <!-- Pin a Card of your main projects: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omars32&repo=Github_Readme)](https://github.com/Omars32/Github_Readme)
