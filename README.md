@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I'm Omar Almokhtar [Physicists & Data Analyst] 
 
 <!--
 **Omars32/Omars32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> A comment?
+--> 
+## Statistics? 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omars32&repo=Github_Readme)](https://github.com/anuraghazra/github-readme-stats)
