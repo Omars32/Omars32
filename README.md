@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 ## Website? 
-[Profile Page](http://solo-team.online)
+[Profile Page](http://www.solo-team.online/omar-mawlod-resume.html)
