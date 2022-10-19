@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Who+I+am+?)](https://git.io/typing-svg)
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developers!;Physicist+and+Data+Analyst)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developers!;Physicist+and+Data+Analyst)](https://git.io/typing-svg)
 
 # Omar Almokhtar
-## Physicist & Data Analyst
+> Physicist & Data Analyst
 
 
 <!--
