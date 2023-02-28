@@ -36,3 +36,7 @@ Wakatime
 
 ### Prefer Website? 
 [Here You Can Find The Profile Page](http://www.solo-team.online/omar-mawlod-resume.html)
+
+
+
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Omar%20Almukhtar/Business%20Analyst/BI%20Analyst/Bachelor/dark/https%3A%2F%2Fi.postimg.cc%2FqRN3RLBW%2Flinked-In-Pic.jpg)](https://www.linkedin.com/in/omars1)
